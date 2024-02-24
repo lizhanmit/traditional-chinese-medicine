@@ -32,10 +32,10 @@ Traditional Chinese medicine core thought is treating human life and activities 
 
 According to WHO,《黄帝内经》represents the future development trend of the medicine:  
 
-- cure diseases -> cure humans
-- full life cycle
-- biology -> body and mind
-- cure cause of disease -> holistic system
+- Cure diseases -> cure humans
+- Full life cycle
+- Biology -> body and mind
+- Cure cause of disease -> holistic system
 
 ---
 
